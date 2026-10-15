@@ -1,13 +1,18 @@
 # Документация Agent Skills
 
-Перед созданием скила открой и прочитай все перечисленные страницы:
+Перед созданием скила прочитай обязательные страницы. Остальные открывай по необходимости, следуя условиям ниже.
 
-- [Обзор Agent Skills](https://agentskills.io/home) — назначение скилов и принцип их загрузки агентом.
+## Обязательные страницы
+
 - [Спецификация](https://agentskills.io/specification) — формат `SKILL.md`, метаданные и структура каталогов.
 - [Рекомендации по созданию скилов](https://agentskills.io/skill-creation/best-practices) — область применения, объём и содержание инструкций.
-- [Описание для активации скила](https://agentskills.io/skill-creation/optimizing-descriptions) — как составить `description`, чтобы агент выбирал скил для подходящих запросов.
-- [Оценка качества скилов](https://agentskills.io/skill-creation/evaluating-skills) — тестовые сценарии и оценка результатов.
-- [Использование скриптов](https://agentskills.io/skill-creation/using-scripts) — выполнение команд и включение скриптов в скил.
-- [Поддержка скилов в агенте](https://agentskills.io/client-implementation/adding-skills-support) — интеграция формата Agent Skills.
+
+## По необходимости
+
+- [Обзор Agent Skills](https://agentskills.io/home) — если нужно уточнить назначение скилов и принцип их загрузки агентом.
+- [Описание для активации скила](https://agentskills.io/skill-creation/optimizing-descriptions) — если условия активации неоднозначны или скил пересекается с другими.
+- [Оценка качества скилов](https://agentskills.io/skill-creation/evaluating-skills) — при подготовке поведенческой проверки сложного скила или разборе ошибок выполнения.
+- [Использование скриптов](https://agentskills.io/skill-creation/using-scripts) — если скил включает скрипты или инструкции по выполнению команд.
+- [Поддержка скилов в агенте](https://agentskills.io/client-implementation/adding-skills-support) — если задача включает интеграцию формата Agent Skills в агент.
 
 Здесь хранятся ссылки на актуальную документацию, а не её локальные копии.
