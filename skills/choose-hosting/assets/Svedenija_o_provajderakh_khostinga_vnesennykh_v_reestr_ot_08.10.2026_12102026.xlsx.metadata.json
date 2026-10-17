@@ -1,0 +1,31 @@
+{
+  "file_name": "Svedenija_o_provajderakh_khostinga_vnesennykh_v_reestr_ot_08.10.2026_12102026.xlsx",
+  "sha256": "d9025aa02d36b00af14719503f460c20f12c278846df899c0bd2983d7a2d54ec",
+  "source_page_url": "https://rkn.gov.ru/activity/connection/register/p1578/",
+  "download_url": null,
+  "downloaded_at": null,
+  "registry_version_date": null,
+  "version_date_from_filename": "2026-10-08",
+  "version_date_note": "Дата из имени пользовательского файла; независимо по РКН не подтверждена. Значение 12102026 в конце имени не интерпретировано как дата публикации.",
+  "received_on": "2026-10-17",
+  "last_successful_comparison_at": null,
+  "last_successful_comparison_method": null,
+  "last_successful_comparison_result": null,
+  "last_check": {
+    "checked_at": "2026-10-17T07:13:39Z",
+    "status": "unverified",
+    "reason": "Страница РКН недоступна: тайм-аут."
+  },
+  "workbook": {
+    "sheet": "РПХ",
+    "header_row": 4,
+    "first_data_row": 5,
+    "provider_count": 598,
+    "unique_registry_id_count": 598,
+    "ignored_column": {
+      "column": "J",
+      "header": "Столбец2",
+      "reason": "598 формул с ошибкой #REF!; не использовать как реквизит провайдера."
+    }
+  }
+}

@@ -13,6 +13,7 @@
 | [git-send-changes](skills/git-send-changes/SKILL.md) | Выполнить полный процесс: подготовить ветку, создать коммит, отправить изменения и открыть PR. |
 | [create-skill](skills/create-skill/SKILL.md) | Создать навык по документации Agent Skills и проверить его структуру и инструкции. |
 | [smart-goals](skills/smart-goals/SKILL.md) | Составить рабочую цель из намерения или разобрать готовую цель по SMART в трактовке Дорана. |
+| [choose-hosting](skills/choose-hosting/SKILL.md) | Выбрать хостинг-провайдера, проверить его по реестру РКН и сверить актуальность локальной Excel-выгрузки. |
 
 ## Подключение
 
